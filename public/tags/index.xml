@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on My New Hugo Site</title>
+    <link>/tags/</link>
+    <description>Recent content in Tags on My New Hugo Site</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 28 Dec 2024 12:00:00 +0000</lastBuildDate>
+    <atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Currying</title>
+      <link>/tags/currying/</link>
+      <pubDate>Sat, 28 Dec 2024 12:00:00 +0000</pubDate>
+      <guid>/tags/currying/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Date</title>
+      <link>/tags/date/</link>
+      <pubDate>Sat, 28 Dec 2024 12:00:00 +0000</pubDate>
+      <guid>/tags/date/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>HOF</title>
+      <link>/tags/hof/</link>
+      <pubDate>Sat, 28 Dec 2024 12:00:00 +0000</pubDate>
+      <guid>/tags/hof/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>JavaScript</title>
+      <link>/tags/javascript/</link>
+      <pubDate>Sat, 28 Dec 2024 12:00:00 +0000</pubDate>
+      <guid>/tags/javascript/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>This</title>
+      <link>/tags/this/</link>
+      <pubDate>Sat, 28 Dec 2024 12:00:00 +0000</pubDate>
+      <guid>/tags/this/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Biến</title>
+      <link>/tags/bi%E1%BA%BFn/</link>
+      <pubDate>Sat, 28 Dec 2024 10:30:00 +0000</pubDate>
+      <guid>/tags/bi%E1%BA%BFn/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Hoisting</title>
+      <link>/tags/hoisting/</link>
+      <pubDate>Sat, 28 Dec 2024 10:30:00 +0000</pubDate>
+      <guid>/tags/hoisting/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Scope</title>
+      <link>/tags/scope/</link>
+      <pubDate>Sat, 28 Dec 2024 10:30:00 +0000</pubDate>
+      <guid>/tags/scope/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Async Programming</title>
+      <link>/tags/async-programming/</link>
+      <pubDate>Sat, 28 Dec 2024 10:00:00 +0000</pubDate>
+      <guid>/tags/async-programming/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Browser API</title>
+      <link>/tags/browser-api/</link>
+      <pubDate>Sat, 28 Dec 2024 10:00:00 +0000</pubDate>
+      <guid>/tags/browser-api/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Event Loop</title>
+      <link>/tags/event-loop/</link>
+      <pubDate>Sat, 28 Dec 2024 10:00:00 +0000</pubDate>
+      <guid>/tags/event-loop/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Window Object</title>
+      <link>/tags/window-object/</link>
+      <pubDate>Sat, 28 Dec 2024 10:00:00 +0000</pubDate>
+      <guid>/tags/window-object/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>
